@@ -1,0 +1,27 @@
+{
+	"messages": {
+		"loginSuccess": "Welcome, {{name}}! You are logged in successfully.",
+		"bookCreated": "Book created successfully",
+		"librarianPending": "Librarian registered successfully. Pending admin approval.",
+		"librarianApproved": "Librarian approved successfully.",
+		"registerSuccess": "User registered successfully.",
+		"tokenRefreshed": "Access token refreshed successfully.",
+		"bookUpdated": "Book updated successfully",
+		"bookDeleted": "Book deleted successfully"
+	},
+	"errors": {
+		"emailExists": "This email is already registered.",
+		"adminExists": "Admin already exists.",
+		"notApproved": "Your account is not approved by admin yet",
+		"invalidRole": "Invalid role. Allowed roles: USER, ADMIN, LIBRARIAN.",
+		"weakPassword": "Password must be at least 6 characters.",
+		"userNotFound": "User not found",
+		"serverError": "Something went wrong: {{message}}",
+		"missingFields": "Title and Author are required",
+		"invalidPassword": "Invalid password",
+		"invalidToken": "Invalid or expired refresh token.",
+		"notFound": "Resource not found",
+		"forbidden": "Access denied",
+		"missingToken": "errors.missingToken"
+	}
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "d85c437b-016e-417c-8189-05bac8e34e70",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publishedYear": 2008,
+    "createdAt": "2025-09-11T21:04:13.939Z"
+  },
+  {
+    "id": "05c64ff4-9610-41da-8ef5-d3adf94e323d",
+    "title": "Clean Arch",
+    "author": "Martin",
+    "publishedYear": 2004,
+    "createdAt": "2025-09-12T08:21:46.460Z"
+  },
+  {
+    "id": "bd93ef9c-39f0-456a-af96-e9860fbc7118",
+    "title": "Clean Arch",
+    "author": "Martin",
+    "publishedYear": 2004,
+    "createdAt": "2025-09-12T08:22:03.259Z"
+  },
+  {
+    "id": "7304bb19-14df-46f1-97d1-5c49c6861a18",
+    "title": "Clean Arch",
+    "author": "Martin",
+    "publishedYear": 2004,
+    "createdAt": "2025-09-12T08:37:53.814Z"
+  },
+  {
+    "id": "5af50326-bafb-4401-b279-5c619fed6be1",
+    "title": " Arch",
+    "author": "Martin",
+    "publishedYear": 2004,
+    "createdAt": "2025-09-25T22:02:45.781Z"
+  },
+  {
+    "id": "317bc915-f156-4f63-bb8d-83d903de5898",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publishedYear": 2008,
+    "createdAt": "2025-09-26T06:15:03.462Z"
+  },
+  {
+    "id": "cc2bd92f-2c40-4a34-8bba-57c8da482b50",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publishedYear": 2008,
+    "createdAt": "2025-09-26T06:15:06.979Z"
+  },
+  {
+    "id": "fb1d8677-68b2-407f-99bc-218fdb7dbbe1",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publishedYear": 2008,
+    "createdAt": "2025-09-26T06:17:00.014Z"
+  },
+  {
+    "id": "c1ca3df7-7eb6-4842-87cc-04d48ae9cfe1",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publishedYear": 2008,
+    "createdAt": "2025-09-26T06:17:42.758Z"
+  },
+  {
+    "id": "065153de-bf78-4d6c-8e82-070c9d697fbf",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publishedYear": 2008,
+    "createdAt": "2025-09-26T06:26:44.065Z"
+  },
+  {
+    "id": "8d39c798-f99f-4659-885d-9e264f0aa067",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publishedYear": 2008,
+    "createdAt": "2025-09-26T06:27:37.620Z"
+  }
+]

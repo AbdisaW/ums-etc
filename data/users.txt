@@ -1,0 +1,146 @@
+[
+  {
+    "id": "56f1e3c8-51e5-499a-a4b6-7f5d21647227",
+    "name": "labr",
+    "email": "l@example.com",
+    "password": "$2b$10$giF.Im9h63rrGD9hbCufl.kb753KJ5bWH9raxVOKQSq8BH1Rjq0.2",
+    "role": "LIBRARIAN",
+    "approved": false,
+    "createdAt": "2025-09-11T20:32:13.576Z"
+  },
+  {
+    "id": "18d4a146-023b-4f29-9792-540bdc94e48f",
+    "name": "labr",
+    "email": "lu@example.com",
+    "password": "$2b$10$AmyoP2L75GYLiX/bJQL9EebLB8do.XXzRsUH7ynUdWlR0pC.O9qh2",
+    "role": "LIBRARIAN",
+    "approved": false,
+    "createdAt": "2025-09-11T20:42:47.513Z"
+  },
+  {
+    "id": "b1e7fd08-5019-470f-a637-9a8b22cf386b",
+    "name": "admin",
+    "email": "admin@example.com",
+    "password": "$2b$10$hTs61fSVJbJ2oVmC.VT0t.yTCAvhy511MeNmhGcZYlfBxp0hoEPeS",
+    "role": "ADMIN",
+    "approved": true,
+    "createdAt": "2025-09-11T20:44:25.489Z"
+  },
+  {
+    "id": "116609ac-a8ae-4e28-ae38-8e62ed262222",
+    "name": "book",
+    "email": "book@example.com",
+    "password": "$2b$10$iCnJZL8LjkG/Pj.h9bPWhuJ3eXpmV.s2EiqJwetF/1njZIO3p1Opq",
+    "role": "LIBRARIAN",
+    "approved": false,
+    "createdAt": "2025-09-11T20:51:55.105Z"
+  },
+  {
+    "id": "371e0e8f-d28c-4345-97e2-c67d1d9c99da",
+    "name": "book",
+    "email": "bok@example.com",
+    "password": "$2b$10$GRz7HPv.K20BiIqctL50qe2hteLt8NCWxMQAGQDATtQ0309AwaE/y",
+    "role": "LIBRARIAN",
+    "approved": true,
+    "createdAt": "2025-09-11T20:55:59.596Z"
+  },
+  {
+    "id": "9074cae3-c8a7-4b7b-b34e-a599c416f0b2",
+    "name": "book",
+    "email": "boook@example.com",
+    "password": "$2b$10$rRw0nE/E1StIlzx59rgoc.FXKni.HJvJmgL14IZe5Jpm4lfcikSTC",
+    "role": "LIBRARIAN",
+    "approved": true,
+    "createdAt": "2025-09-11T21:02:56.539Z"
+  },
+  {
+    "id": "664ab129-04af-4c8e-9a00-3a503ff4d7d5",
+    "name": "updatr",
+    "email": "update@example.com",
+    "password": "$2b$10$a./alCYoVJT5QoWKfJGLxuODJQiB1ekSXhqCBAcoAjzYxy6zJGFNu",
+    "role": "USER",
+    "approved": true,
+    "createdAt": "2025-09-12T06:58:30.006Z"
+  },
+  {
+    "id": "d8543783-b260-498b-92a4-7c22fea51e04",
+    "name": "user",
+    "email": "user@example.com",
+    "password": "$2b$10$SVVikfX17hx8kmxM3AYjNuckBy6BvOmPiSaDV.KFTHRZl1hBGs.Lq",
+    "role": "LIBRARIAN",
+    "approved": true,
+    "createdAt": "2025-09-12T07:58:00.774Z"
+  },
+  {
+    "id": "21b9a356-9b7b-4416-860e-2609c9352641",
+    "name": "lib",
+    "email": "lib@example.com",
+    "password": "$2b$10$FlkrnuuOSjMXAjbp/KBKn./8CunBDIJwpuwIhkIbNzGbBlgUrUadO",
+    "role": "LIBRARIAN",
+    "approved": true,
+    "createdAt": "2025-09-12T08:11:50.561Z"
+  },
+  {
+    "id": "391e90c2-0119-40e9-950a-0a6eadeddd76",
+    "name": "NAME1",
+    "email": "li@example.com",
+    "password": "$2b$10$X.E3p.L30QdH9V2p0Cuh/.y2AEO1nvg/1R61J6PWfjM2G/D3zH2lG",
+    "role": "user",
+    "approved": true,
+    "createdAt": "2025-09-12T08:25:25.909Z"
+  },
+  {
+    "id": "c8e9d729-5b45-43c1-8465-b0aa948f90b3",
+    "name": "updatr",
+    "email": "solomn@example.com",
+    "password": "$2b$10$/PpbdZ6I1sDWidkrHZgHsOWI5GyCIxNjuL5.gjFacIxp3Wn1JQb7q",
+    "role": "LIBRARIAN",
+    "approved": true,
+    "createdAt": "2025-09-12T08:36:26.131Z"
+  },
+  {
+    "id": "1c983c35-2355-4b59-a281-3e4d820e8a3a",
+    "name": "lib",
+    "email": "us@example.com",
+    "password": "$2b$10$bKeTH6BWBlCKtlhzOjSIKu8Er7BD7MTbDakJKsJezOfa3XosZgEZ2",
+    "role": "USER",
+    "approved": true,
+    "createdAt": "2025-09-23T11:29:30.242Z"
+  },
+  {
+    "id": "e4b7c7cb-1f69-4aa4-b830-77b6a50b8b38",
+    "name": "Test User",
+    "email": "tes@example.com",
+    "password": "$2b$10$3Tf6PZdAGVzwObo743GMC.jWAtll9qXT3HS3r9dB4K09GegLq2U1u",
+    "role": "USER",
+    "approved": true,
+    "createdAt": "2025-09-25T21:39:50.435Z"
+  },
+  {
+    "id": "bb48e3da-5d4a-40ac-b11f-4cd66706375b",
+    "name": "labrar",
+    "email": "lssss@example.com",
+    "password": "$2b$10$.TvTpo..P7LywRoAxcqLC.PPCMzvkavieLxn7PNYh64gXyo4BpuZu",
+    "role": "LIBRARIAN",
+    "approved": false,
+    "createdAt": "2025-09-26T06:48:52.961Z"
+  },
+  {
+    "id": "5f13c058-f94d-484d-bf26-11dc54602468",
+    "name": "Alice",
+    "email": "alice@example.com",
+    "password": "$2b$10$997BsvuTu3eBwqLSrMVAnOH8/qyHwN4YMkj0/PbJ1Efo1I9dwrQC.",
+    "role": "USER",
+    "approved": true,
+    "createdAt": "2025-09-29T09:30:31.922Z"
+  },
+  {
+    "id": "57957911-7e95-4752-b05d-8249a80df231",
+    "name": "Alice",
+    "email": "alic@example.com",
+    "password": "$2b$10$zTF0xFfngotY2E2d527nMOuMZLwpJDPMRSgbeH1WLmbgA0gu3ctBm",
+    "role": "USER",
+    "approved": true,
+    "createdAt": "2025-09-29T09:30:37.738Z"
+  }
+]

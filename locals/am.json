@@ -1,0 +1,23 @@
+{
+	"messages": {
+		"loginSuccess": "እንኳን ደህና መጡ, {{name}}! በስኬት ገብተዋል.",
+		"registerSuccess": "ተጠቃሚው በስኬት ተመዝግቧል።",
+		"librarianPending": "ተማሪ በስኬት ተመዝግቧል። አስተዳዳሪ እስከ ማረጋገጫ ይጠብቃል።",
+		"librarianApproved": "ተማሪው በስኬት ተረጋግጧል።",
+		"tokenRefreshed": "የመዳረሻ ተጠቃሚ በስኬት ተቀይሯል።"
+	},
+	"errors": {
+		"emailExists": "ይህ ኢሜል ቀድሞውኑ ተመዝግቧል።",
+		"adminExists": "አስተዳዳሪ ከዚህ በፊት አለ።",
+		"weakPassword": "የይለፍ ቃል ቢያንስ 6 ቁምፊዎች መሆን አለበት።",
+		"notApproved": "የላይብራሪ መለያ እስካሁን አልተፈቀደም",
+		"invalidRole": "ያልተፈቀደ ሚና ነው። የፈቀዱ ሚናዎች: USER, ADMIN, LIBRARIAN.",
+		"userNotFound": "ተጠቃሚው አልተገኘም",
+		"invalidToken": "የመቀየሪያ ተጠቃሚ ትክክል ወይም ጊዜው አልፎበታል።",
+		"invalidPassword": "የሚስጥር ቁልፍ የተሳሳተ ነው",
+		"serverError": "የሆነ ችግር ተፈጥሯል።: {{message}}",
+		"notFound": "errors.notFound",
+		"found": "errors.found",
+		"librarianNotApproved": "errors.librarianNotApproved"
+	}
+}
