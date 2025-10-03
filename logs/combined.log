@@ -1,617 +1,133 @@
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:55:55.023Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:56:12.750Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:56:15.772Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:56:15.775Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:56:23.669Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:56:23.674Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:56:25.366Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:56:25.369Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:57:51.017Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:57:51.024Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:57:54.648Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:57:54.653Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:57:58.342Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:57:58.346Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:58:01.602Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:58:01.607Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:58:07.353Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:58:07.357Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:58:11.356Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:58:11.361Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:58:15.502Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:58:15.506Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:58:17.516Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:58:17.519Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:58:21.210Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:58:21.215Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:58:44.200Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:58:44.204Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:58:48.061Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:58:48.065Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:58:51.426Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:58:51.431Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:58:56.851Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:58:56.855Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:58:59.679Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:58:59.683Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:59:06.424Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:59:06.428Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:59:10.453Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:59:10.458Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:59:11.758Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:59:11.762Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T07:59:12.779Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T07:59:12.782Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:00:04.844Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:00:04.848Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:00:12.705Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:00:12.709Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:00:18.378Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:00:18.383Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:00:20.396Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:00:20.400Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:12.082Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:12.087Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:13.053Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:13.058Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:15.038Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:15.044Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:16.567Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:16.571Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:28.732Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:28.737Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:35.080Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:35.084Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:37.947Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:37.951Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:39.981Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:39.985Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:42.158Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:42.162Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:48.342Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:48.346Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:51.319Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:51.322Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:01:56.369Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:01:56.373Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:02:04.285Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:02:04.289Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:02:09.436Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:02:09.440Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:02:11.956Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:02:11.960Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:02:13.347Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:02:13.352Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:08:20.722Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:08:20.730Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:08:38.105Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:08:38.112Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:08:47.583Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:08:47.589Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:08:52.304Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:08:52.308Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:08:53.956Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:08:53.960Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T08:30:20.449Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T08:30:20.455Z"}
-{"level":"info","message":"Regester request body: {\n  name: 'andualem',\n  email: 'e@example.com',\n  password: '123',\n  role: 'LIBRARIAN'\n} ","timestamp":"2025-10-01T08:32:44.232Z"}
-{"level":"info","message":"UserService.register called: { email: 'e@example.com', role: 'LIBRARIAN' }","timestamp":"2025-10-01T08:32:44.232Z"}
-{"level":"error","message":"Register error: Error: Email already exists\n    at Object.register (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/user.service.js:21:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async register (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:9:22) {\n  [stack]: [Getter/Setter],\n  [message]: 'Email already exists'\n}","timestamp":"2025-10-01T08:32:44.257Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:08:32:44 +0000] \"POST /api/auth/register HTTP/1.1\" 400 54 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T08:32:44.260Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:08:58:53 +0000] \"POST /api/auth/registert HTTP/1.1\" 404 32 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T08:58:53.191Z"}
-{"level":"info","message":"Regester request body: {\n  name: 'andualem',\n  email: 'e@example.com',\n  password: '123',\n  role: 'LIBRARIAN'\n} ","timestamp":"2025-10-01T08:59:28.579Z"}
-{"level":"info","message":"UserService.register called: { email: 'e@example.com', role: 'LIBRARIAN' }","timestamp":"2025-10-01T08:59:28.580Z"}
-{"level":"error","message":"Register error: Error: Email already exists\n    at Object.register (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/user.service.js:21:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async register (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:9:22) {\n  [stack]: [Getter/Setter],\n  [message]: 'Email already exists'\n}","timestamp":"2025-10-01T08:59:28.592Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:08:59:28 +0000] \"POST /api/auth/register HTTP/1.1\" 400 54 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T08:59:28.594Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:08:39.036Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:08:39.042Z"}
-{"email":"e@example.com","level":"info","message":"Regester request body: ","name":"andualem","password":"123","role":"LIBRARIAN","timestamp":"2025-10-01T09:08:42.542Z"}
-{"level":"info","message":"UserService.register called: { email: 'e@example.com', role: 'LIBRARIAN' }","timestamp":"2025-10-01T09:08:42.542Z"}
-{"level":"error","message":"Register error: Error: Email already exists\n    at Object.register (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/user.service.js:21:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async register (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:9:22) {\n  [stack]: [Getter/Setter],\n  [message]: 'Email already exists'\n}","timestamp":"2025-10-01T09:08:42.548Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:09:08:42 +0000] \"POST /api/auth/register HTTP/1.1\" 400 54 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T09:08:42.552Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:09:03.943Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:09:03.949Z"}
-{"level":"info","message":"Regester request body: {\n  name: 'andualem',\n  email: 'e@example.com',\n  password: '123',\n  role: 'LIBRARIAN'\n} ","timestamp":"2025-10-01T09:09:07.252Z"}
-{"level":"info","message":"UserService.register called: { email: 'e@example.com', role: 'LIBRARIAN' }","timestamp":"2025-10-01T09:09:07.253Z"}
-{"level":"error","message":"Register error: Error: Email already exists\n    at Object.register (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/user.service.js:21:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async register (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:9:22) {\n  [stack]: [Getter/Setter],\n  [message]: 'Email already exists'\n}","timestamp":"2025-10-01T09:09:07.257Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:09:09:07 +0000] \"POST /api/auth/register HTTP/1.1\" 400 54 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T09:09:07.260Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:28:29.373Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:28:29.379Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:28:32.133Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:28:32.137Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:28:33.726Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:28:33.728Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:28:38.577Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:28:38.582Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:28:43.358Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:28:43.362Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:30:03.920Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:30:03.927Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:30:10.933Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:30:10.937Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:30:53.764Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:30:53.771Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:30:55.186Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:30:55.190Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:30:58.068Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:30:58.072Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:31:01.825Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:31:01.829Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:31:19.917Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:31:19.924Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:31:30.135Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:31:30.140Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:31:35.423Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:31:35.425Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:31:37.616Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:31:37.618Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:31:39.480Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:31:39.484Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:31:54.370Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:31:54.373Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:32:15.573Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:32:15.576Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:32:17.038Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:32:17.042Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:32:22.600Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:32:22.605Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:32:27.658Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:32:27.663Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:32:32.740Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:32:32.745Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:32:36.752Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:32:36.755Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:32:39.477Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:32:39.481Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:33:12.521Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:33:12.525Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:33:21.781Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:33:21.786Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:33:26.397Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:33:26.402Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:33:28.023Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:33:28.027Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:33:38.195Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:33:38.200Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:33:46.704Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:33:46.708Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:33:51.027Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:33:51.031Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:34:59.169Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:34:59.175Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:35:10.638Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:35:10.643Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:35:12.611Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:35:12.615Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:35:18.424Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:35:18.428Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:35:25.277Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:35:25.282Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:35:26.929Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:35:26.933Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:35:29.387Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:35:29.390Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:35:33.555Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:35:33.559Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:35:34.729Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:35:34.732Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:36:03.114Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:36:03.117Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:36:04.987Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:36:04.990Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:36:06.911Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:36:06.916Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:39:18.695Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:39:18.701Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:39:22.467Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:39:22.471Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:39:24.849Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:39:24.854Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:39:47.000Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:39:47.006Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:39:51.217Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:39:51.220Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:40:03.533Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:40:03.536Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:40:29.882Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:40:29.886Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:40:35.842Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:40:35.846Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:40:37.085Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:40:37.087Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:44:10.010Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:44:10.016Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:44:11.013Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:44:11.017Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:44:22.135Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:44:22.139Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:44:27.222Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:44:27.226Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:44:29.579Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:44:29.582Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:44:39.459Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:44:39.462Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:45:04.433Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:45:04.438Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:45:10.415Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:45:10.421Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:45:41.170Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:45:41.175Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:45:42.540Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:45:42.544Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:46:03.817Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:46:03.821Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:46:09.423Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:46:09.426Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:48:10.647Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:48:10.650Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:48:16.956Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:48:16.960Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:48:18.221Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:48:18.224Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:48:24.721Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:48:24.726Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:48:31.101Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:48:31.104Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:48:39.132Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:48:39.136Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:48:44.305Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:48:44.310Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:48:46.916Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:48:46.919Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:49:00.732Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:49:00.735Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:49:16.032Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:49:16.037Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:49:17.949Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:49:17.952Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:49:19.775Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:49:19.777Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:49:49.133Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:49:49.137Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:49:53.037Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:49:53.042Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:49:55.199Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:49:55.203Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:50:07.196Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:50:07.199Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:50:10.748Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:50:10.752Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:50:15.318Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:50:15.322Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:52:00.932Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:52:00.938Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:52:02.063Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:52:02.067Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:52:06.182Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:52:06.185Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:52:08.536Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:52:08.540Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:52:24.868Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:52:24.872Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:52:32.202Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:52:32.205Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:52:36.969Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:52:36.972Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:52:40.198Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:52:40.202Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:52:44.096Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:52:44.099Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:52:49.830Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:52:49.834Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:52:53.300Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:52:53.304Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T09:53:03.688Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T09:53:03.691Z"}
-{"level":"info","message":"log in request body: { email: 'al@example.com', password: '123' } ","timestamp":"2025-10-01T09:57:03.525Z"}
-{"level":"info","message":"LoginService called: { email: 'al@example.com' }","timestamp":"2025-10-01T09:57:03.526Z"}
-{"level":"error","message":"Login blocked : Librarian al@example.com not approved","timestamp":"2025-10-01T09:57:03.608Z"}
-{"level":"error","message":"user login error: Error: Librarian not approved\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:22:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Librarian not approved'\n}","timestamp":"2025-10-01T09:57:03.609Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:09:57:03 +0000] \"POST /api/auth/login?lang=am HTTP/1.1\" 400 39 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T09:57:03.610Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T10:02:17.947Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T10:02:17.953Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T10:02:19.142Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T10:02:19.145Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T10:03:06.908Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T10:03:06.913Z"}
-{"level":"info","message":"log in request body: { email: 'al@example.com', password: '123' } ","timestamp":"2025-10-01T10:03:17.198Z"}
-{"level":"info","message":"LoginService called: { email: 'al@example.com' }","timestamp":"2025-10-01T10:03:17.198Z"}
-{"level":"error","message":"Login blocked : Librarian al@example.com not approved","timestamp":"2025-10-01T10:03:17.278Z"}
-{"level":"error","message":"user login error: Error: Librarian not approved\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:22:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Librarian not approved'\n}","timestamp":"2025-10-01T10:03:17.278Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:10:03:17 +0000] \"POST /api/auth/login?lang=am HTTP/1.1\" 400 78 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T10:03:17.280Z"}
-{"level":"info","message":"log in request body: { email: 'al@example.com', password: '123' } ","timestamp":"2025-10-01T10:03:29.932Z"}
-{"level":"info","message":"LoginService called: { email: 'al@example.com' }","timestamp":"2025-10-01T10:03:29.933Z"}
-{"level":"error","message":"Login blocked : Librarian al@example.com not approved","timestamp":"2025-10-01T10:03:30.011Z"}
-{"level":"error","message":"user login error: Error: Librarian not approved\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:22:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Librarian not approved'\n}","timestamp":"2025-10-01T10:03:30.012Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:10:03:30 +0000] \"POST /api/auth/login?lang HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T10:03:30.012Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T10:04:25.176Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T10:04:25.181Z"}
-{"level":"info","message":"log in request body: { email: 'al@example.com', password: '123' } ","timestamp":"2025-10-01T10:04:29.281Z"}
-{"level":"info","message":"LoginService called: { email: 'al@example.com' }","timestamp":"2025-10-01T10:04:29.282Z"}
-{"level":"error","message":"Login blocked : Librarian al@example.com not approved","timestamp":"2025-10-01T10:04:29.357Z"}
-{"level":"error","message":"user login error: Error: Librarian not approved\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:22:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Librarian not approved'\n}","timestamp":"2025-10-01T10:04:29.357Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:10:04:29 +0000] \"POST /api/auth/login?lang HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T10:04:29.359Z"}
-{"level":"info","message":"log in request body: { email: 'al@example.com', password: '123' } ","timestamp":"2025-10-01T10:15:52.794Z"}
-{"level":"info","message":"LoginService called: { email: 'al@example.com' }","timestamp":"2025-10-01T10:15:52.795Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T10:15:52.875Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:10:15:52 +0000] \"POST /api/auth/login?lang HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T10:15:52.876Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T10:18:07.876Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T10:18:07.881Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T10:18:24.641Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T10:18:24.648Z"}
-{"level":"info","message":"log in request body: { email: 'al@example.com', password: '123' } ","timestamp":"2025-10-01T10:18:36.492Z"}
-{"level":"info","message":"LoginService called: { email: 'al@example.com' }","timestamp":"2025-10-01T10:18:36.492Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T10:18:36.571Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:10:18:36 +0000] \"POST /api/auth/login?lang HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T10:18:36.573Z"}
-{"level":"info","message":"log in request body: { email: 'al@example.com', password: '123' } ","timestamp":"2025-10-01T11:09:15.398Z"}
-{"level":"info","message":"LoginService called: { email: 'al@example.com' }","timestamp":"2025-10-01T11:09:15.399Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T11:09:15.476Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:09:15 +0000] \"POST /api/auth/login?lang HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:09:15.477Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:09:30.564Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:09:30.571Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:09:31.631Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:09:31.635Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:09:44.635Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:09:44.638Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:09:52.594Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:09:52.598Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:09:56.011Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:09:56.014Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:10:04.537Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:10:04.541Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:10:06.826Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:10:06.828Z"}
-{"level":"info","message":"log in request body: { email: 'al@example.com', password: '123' } ","timestamp":"2025-10-01T11:10:12.454Z"}
-{"level":"info","message":"LoginService called: { email: 'al@example.com' }","timestamp":"2025-10-01T11:10:12.455Z"}
-{"level":"warn","message":"Login failed: user not found ","timestamp":"2025-10-01T11:10:12.537Z"}
-{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:20:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-01T11:10:12.537Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:10:12 +0000] \"POST /api/auth/login?lang HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:10:12.538Z"}
-{"level":"info","message":"log in request body: { email: 'al@example.com', password: '123' } ","timestamp":"2025-10-01T11:10:19.472Z"}
-{"level":"info","message":"LoginService called: { email: 'al@example.com' }","timestamp":"2025-10-01T11:10:19.472Z"}
-{"level":"warn","message":"Login failed: user not found ","timestamp":"2025-10-01T11:10:19.549Z"}
-{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:20:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-01T11:10:19.549Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:10:19 +0000] \"POST /api/auth/login?lang HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:10:19.549Z"}
-{"level":"info","message":"log in request body: { email: 'e@example.com', password: '123' } ","timestamp":"2025-10-01T11:11:02.587Z"}
-{"level":"info","message":"LoginService called: { email: 'e@example.com' }","timestamp":"2025-10-01T11:11:02.587Z"}
-{"level":"warn","message":"Login failed: user not found ","timestamp":"2025-10-01T11:11:02.665Z"}
-{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:20:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-01T11:11:02.665Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:11:02 +0000] \"POST /api/auth/login?lang HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:11:02.666Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:11:20.942Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:11:20.949Z"}
-{"level":"info","message":"log in request body: { email: 'e@example.com', password: '123' } ","timestamp":"2025-10-01T11:11:22.640Z"}
-{"level":"info","message":"LoginService called: { email: 'e@example.com' }","timestamp":"2025-10-01T11:11:22.640Z"}
-{"level":"warn","message":"Login failed: user not found ","timestamp":"2025-10-01T11:11:22.716Z"}
-{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:21:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-01T11:11:22.716Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:11:22 +0000] \"POST /api/auth/login?lang HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:11:22.718Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:12:07.439Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:12:07.446Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:12:40.442Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:12:40.447Z"}
-{"level":"info","message":"log in request body: { email: 'e@example.com', password: '123' } ","timestamp":"2025-10-01T11:12:43.376Z"}
-{"level":"info","message":"LoginService called: { email: 'e@example.com' }","timestamp":"2025-10-01T11:12:43.376Z"}
-{"level":"warn","message":"Login failed: user not found ","timestamp":"2025-10-01T11:12:43.452Z"}
-{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:21:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-01T11:12:43.452Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:12:43 +0000] \"POST /api/auth/login?lang HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:12:43.454Z"}
-{"level":"info","message":"log in request body: { email: 'e@example.com', password: '123' } ","timestamp":"2025-10-01T11:16:14.520Z"}
-{"level":"info","message":"LoginService called: { email: 'e@example.com' }","timestamp":"2025-10-01T11:16:14.521Z"}
-{"level":"warn","message":"Login failed: user not found ","timestamp":"2025-10-01T11:16:14.600Z"}
-{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:21:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-01T11:16:14.600Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:16:14 +0000] \"POST /api/auth/login HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:16:14.601Z"}
-{"level":"info","message":"log in request body: { email: 'e@example.com', password: '123' } ","timestamp":"2025-10-01T11:31:56.955Z"}
-{"level":"info","message":"LoginService called: { email: 'e@example.com' }","timestamp":"2025-10-01T11:31:56.956Z"}
-{"level":"warn","message":"Login failed: user not found ","timestamp":"2025-10-01T11:31:57.038Z"}
-{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:21:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-01T11:31:57.038Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:31:57 +0000] \"POST /api/auth/login HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:31:57.038Z"}
-{"level":"info","message":"log in request body: { email: 'alic@example.com', password: '123' } ","timestamp":"2025-10-01T11:32:24.299Z"}
-{"level":"info","message":"LoginService called: { email: 'alic@example.com' }","timestamp":"2025-10-01T11:32:24.299Z"}
-{"level":"warn","message":"Login failed: user not found ","timestamp":"2025-10-01T11:32:24.380Z"}
-{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:21:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-01T11:32:24.380Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:32:24 +0000] \"POST /api/auth/login HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:32:24.380Z"}
-{"level":"info","message":"Regester request body: {\n  name: 'abel',\n  email: 'abel@example.com',\n  password: '123',\n  role: 'USER'\n} ","timestamp":"2025-10-01T11:32:41.754Z"}
-{"level":"info","message":"UserService.register called: { email: 'abel@example.com', role: 'USER' }","timestamp":"2025-10-01T11:32:41.755Z"}
-{"level":"info","message":"New User created : {\n  id: 'c64229b8-f153-4b7a-9425-21991bd2bff2',\n  email: 'abel@example.com'\n}","timestamp":"2025-10-01T11:32:41.844Z"}
-{"level":"info","message":"User Registered successfully: {\n  id: 'c64229b8-f153-4b7a-9425-21991bd2bff2',\n  email: 'abel@example.com'\n}","timestamp":"2025-10-01T11:32:41.844Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:32:41 +0000] \"POST /api/auth/register HTTP/1.1\" 201 245 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:32:41.845Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T11:33:35.486Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T11:33:35.487Z"}
-{"level":"warn","message":"Login failed: user not found ","timestamp":"2025-10-01T11:33:35.567Z"}
-{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/auth.service.js:21:15)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-01T11:33:35.567Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:33:35 +0000] \"POST /api/auth/login HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:33:35.568Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:34:44.424Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:34:44.429Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T11:34:47.326Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T11:34:47.327Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T11:34:47.402Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:34:47 +0000] \"POST /api/auth/login HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:34:47.404Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:36:17.799Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:36:17.802Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:36:22.734Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:36:22.736Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T11:36:25.559Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T11:36:25.560Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T11:36:25.626Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:36:25 +0000] \"POST /api/auth/login HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:36:25.630Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T11:40:10.373Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T11:40:10.374Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T11:40:10.468Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:40:10 +0000] \"POST /api/auth/login HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:40:10.468Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:40:33.557Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:40:33.562Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:40:36.705Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:40:36.710Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:40:39.031Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:40:39.035Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:40:40.486Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:40:40.489Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T11:40:46.950Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T11:40:46.951Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T11:40:47.026Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:40:47 +0000] \"POST /api/auth/login HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:40:47.028Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:41:02.365Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:41:02.371Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:41:03.795Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:41:03.798Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:41:07.570Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:41:07.574Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:43:00.700Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:43:00.706Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T11:43:05.323Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T11:43:05.324Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T11:43:05.401Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:11:43:05 +0000] \"POST /api/auth/login HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T11:43:05.403Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:49:56.429Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:49:56.435Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:49:57.232Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:49:57.235Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:50:00.180Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:50:00.185Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:50:02.882Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:50:02.887Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:50:08.264Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:50:08.268Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:50:11.423Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:50:11.426Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:50:12.486Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:50:12.490Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:50:17.094Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:50:17.097Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T11:56:10.878Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T11:56:10.885Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T12:00:56.374Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T12:00:56.374Z"}
-{"level":"debug","message":"User from DB: {\"id\":\"c64229b8-f153-4b7a-9425-21991bd2bff2\",\"name\":\"abel\",\"email\":\"abel@example.com\",\"password\":\"$2b$10$J2cI.GpgG6BJjEyd2/R4luWRM8gNTEoZZRGcUhzZ53Dbu9ZrWmh8W\",\"role\":\"USER\",\"approved\":true,\"createdAt\":\"2025-10-01T11:32:41.000Z\",\"updatedAt\":\"2025-10-01T11:32:41.000Z\"}","timestamp":"2025-10-01T12:00:56.383Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T12:00:56.457Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:12:00:56 +0000] \"POST /api/auth/login HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T12:00:56.459Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T12:04:32.607Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T12:04:32.608Z"}
-{"level":"debug","message":"User from DB: {\"id\":\"c64229b8-f153-4b7a-9425-21991bd2bff2\",\"name\":\"abel\",\"email\":\"abel@example.com\",\"password\":\"$2b$10$J2cI.GpgG6BJjEyd2/R4luWRM8gNTEoZZRGcUhzZ53Dbu9ZrWmh8W\",\"role\":\"USER\",\"approved\":true,\"createdAt\":\"2025-10-01T11:32:41.000Z\",\"updatedAt\":\"2025-10-01T11:32:41.000Z\"}","timestamp":"2025-10-01T12:04:32.613Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T12:04:32.689Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:12:04:32 +0000] \"POST /api/auth/login HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T12:04:32.689Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T12:04:46.587Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T12:04:46.593Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T12:04:51.991Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T12:04:51.992Z"}
-{"level":"debug","message":"User from DB: {\"id\":\"c64229b8-f153-4b7a-9425-21991bd2bff2\",\"name\":\"abel\",\"email\":\"abel@example.com\",\"password\":\"$2b$10$J2cI.GpgG6BJjEyd2/R4luWRM8gNTEoZZRGcUhzZ53Dbu9ZrWmh8W\",\"role\":\"USER\",\"approved\":true,\"createdAt\":\"2025-10-01T11:32:41.000Z\",\"updatedAt\":\"2025-10-01T11:32:41.000Z\"}","timestamp":"2025-10-01T12:04:51.997Z"}
-{"level":"debug","message":"Password match result: true","timestamp":"2025-10-01T12:04:52.066Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T12:04:52.067Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:12:04:52 +0000] \"POST /api/auth/login HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T12:04:52.069Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T12:12:48.516Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T12:12:48.520Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T12:18:49.260Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T12:18:49.260Z"}
-{"level":"debug","message":"User from DB: {\"id\":\"c64229b8-f153-4b7a-9425-21991bd2bff2\",\"name\":\"abel\",\"email\":\"abel@example.com\",\"password\":\"$2b$10$J2cI.GpgG6BJjEyd2/R4luWRM8gNTEoZZRGcUhzZ53Dbu9ZrWmh8W\",\"role\":\"USER\",\"approved\":true,\"createdAt\":\"2025-10-01T11:32:41.000Z\",\"updatedAt\":\"2025-10-01T11:32:41.000Z\"}","timestamp":"2025-10-01T12:18:49.269Z"}
-{"level":"debug","message":"Password match result: true","timestamp":"2025-10-01T12:18:49.338Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T12:18:49.340Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:12:18:49 +0000] \"POST /api/auth/login HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T12:18:49.342Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T12:19:25.168Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T12:19:25.169Z"}
-{"level":"debug","message":"User from DB: {\"id\":\"c64229b8-f153-4b7a-9425-21991bd2bff2\",\"name\":\"abel\",\"email\":\"abel@example.com\",\"password\":\"$2b$10$J2cI.GpgG6BJjEyd2/R4luWRM8gNTEoZZRGcUhzZ53Dbu9ZrWmh8W\",\"role\":\"USER\",\"approved\":true,\"createdAt\":\"2025-10-01T11:32:41.000Z\",\"updatedAt\":\"2025-10-01T11:32:41.000Z\"}","timestamp":"2025-10-01T12:19:25.173Z"}
-{"level":"debug","message":"Password match result: true","timestamp":"2025-10-01T12:19:25.248Z"}
-{"level":"error","message":"user login error: ReferenceError: user is not defined\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/auth.controller.js:45:55) {\n  [stack]: [Getter/Setter],\n  [message]: 'user is not defined'\n}","timestamp":"2025-10-01T12:19:25.248Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:12:19:25 +0000] \"POST /api/auth/login HTTP/1.1\" 400 53 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T12:19:25.249Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T12:20:29.569Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T12:20:29.575Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T12:20:34.066Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T12:20:34.067Z"}
-{"level":"debug","message":"User from DB: {\"id\":\"c64229b8-f153-4b7a-9425-21991bd2bff2\",\"name\":\"abel\",\"email\":\"abel@example.com\",\"password\":\"$2b$10$J2cI.GpgG6BJjEyd2/R4luWRM8gNTEoZZRGcUhzZ53Dbu9ZrWmh8W\",\"role\":\"USER\",\"approved\":true,\"createdAt\":\"2025-10-01T11:32:41.000Z\",\"updatedAt\":\"2025-10-01T11:32:41.000Z\"}","timestamp":"2025-10-01T12:20:34.072Z"}
-{"level":"debug","message":"Password match result: true","timestamp":"2025-10-01T12:20:34.145Z"}
-{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-01T12:20:34.147Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:12:20:34 +0000] \"POST /api/auth/login HTTP/1.1\" 200 633 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T12:20:34.148Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T12:39:58.152Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T12:39:58.155Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T12:41:32.928Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T12:41:32.934Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T12:41:42.650Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T12:41:42.658Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T12:41:43.542Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T12:41:43.547Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T12:42:07.297Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T12:42:07.303Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T12:42:36.280Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T12:42:36.286Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T12:42:58.161Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T12:42:58.162Z"}
-{"level":"debug","message":"User from DB: {\"id\":\"c64229b8-f153-4b7a-9425-21991bd2bff2\",\"name\":\"abel\",\"email\":\"abel@example.com\",\"password\":\"$2b$10$J2cI.GpgG6BJjEyd2/R4luWRM8gNTEoZZRGcUhzZ53Dbu9ZrWmh8W\",\"role\":\"USER\",\"approved\":true,\"createdAt\":\"2025-10-01T11:32:41.000Z\",\"updatedAt\":\"2025-10-01T11:32:41.000Z\"}","timestamp":"2025-10-01T12:42:58.172Z"}
-{"level":"debug","message":"Password match result: true","timestamp":"2025-10-01T12:42:58.239Z"}
-{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-01T12:42:58.239Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:12:42:58 +0000] \"POST /api/auth/login HTTP/1.1\" 200 633 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T12:42:58.240Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T12:43:17.808Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T12:43:17.809Z"}
-{"level":"debug","message":"User from DB: {\"id\":\"c64229b8-f153-4b7a-9425-21991bd2bff2\",\"name\":\"abel\",\"email\":\"abel@example.com\",\"password\":\"$2b$10$J2cI.GpgG6BJjEyd2/R4luWRM8gNTEoZZRGcUhzZ53Dbu9ZrWmh8W\",\"role\":\"USER\",\"approved\":true,\"createdAt\":\"2025-10-01T11:32:41.000Z\",\"updatedAt\":\"2025-10-01T11:32:41.000Z\"}","timestamp":"2025-10-01T12:43:17.814Z"}
-{"level":"debug","message":"Password match result: true","timestamp":"2025-10-01T12:43:17.890Z"}
-{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-01T12:43:17.891Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:12:43:17 +0000] \"POST /api/auth/login HTTP/1.1\" 200 633 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T12:43:17.891Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T13:11:10.448Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T13:11:10.456Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T13:12:20.489Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T13:12:20.493Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T13:12:54.162Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T13:12:54.162Z"}
-{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-01T13:13:10.521Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:13:10 +0000] \"POST /api/auth/login HTTP/1.1\" 200 633 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:13:10.523Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T13:13:34.210Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T13:13:34.212Z"}
-{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-01T13:15:51.182Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:15:51 +0000] \"POST /api/auth/login HTTP/1.1\" 200 633 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:15:51.184Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:38:47 +0000] \"PUT /api/user/update HTTP/1.1\" 404 32 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:38:47.217Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T13:38:51.922Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T13:38:51.923Z"}
-{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-01T13:38:51.996Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:38:51 +0000] \"POST /api/auth/login HTTP/1.1\" 200 633 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:38:51.997Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:39:03 +0000] \"PUT /api/user/update HTTP/1.1\" 404 32 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:39:03.286Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T13:41:00.772Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T13:41:00.772Z"}
-{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-01T13:41:00.855Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:41:00 +0000] \"POST /api/auth/login HTTP/1.1\" 200 633 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:41:00.855Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:41:12 +0000] \"PUT /api/user/update HTTP/1.1\" 404 32 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:41:12.830Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:42:18 +0000] \"PUT /api/user/update HTTP/1.1\" 404 32 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:42:18.081Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T13:44:12.464Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T13:44:12.471Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:44:50 +0000] \"PUT /api/user/update HTTP/1.1\" 404 32 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:44:50.202Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:45:20 +0000] \"PUT /api/user/update HTTP/1.1\" 404 32 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:45:20.627Z"}
-{"level":"info","message":"Password updated for userId: c64229b8-f153-4b7a-9425-21991bd2bff2","timestamp":"2025-10-01T13:46:28.827Z"}
-{"level":"info","message":"User update prepared successfully. userId: c64229b8-f153-4b7a-9425-21991bd2bff2, updates: {\"email\":\"al@example.com\",\"password\":\"$2b$10$SGqm4GfPcyt4cwN/5vSqFu.2Tx/2DmbH1ft7h4V2hD09ZFZIV/mw2\"}","timestamp":"2025-10-01T13:46:28.828Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:46:28 +0000] \"PUT /api/user/update/c64229b8-f153-4b7a-9425-21991bd2bff2 HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:46:28.838Z"}
-{"level":"info","message":"Password updated for userId: c64229b8-f153-4b7a-9425-21991bd2bff2","timestamp":"2025-10-01T13:46:37.997Z"}
-{"level":"info","message":"User update prepared successfully. userId: c64229b8-f153-4b7a-9425-21991bd2bff2, updates: {\"email\":\"al@example.com\",\"password\":\"$2b$10$zwYm0axK43ApeU/iFhRYQeepCHp6lx/BcQb/VayqoH6/40lhj707e\"}","timestamp":"2025-10-01T13:46:37.998Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:46:38 +0000] \"PUT /api/user/update/c64229b8-f153-4b7a-9425-21991bd2bff2 HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:46:38.001Z"}
-{"level":"info","message":"Password updated for userId: c64229b8-f153-4b7a-9425-21991bd2bff2","timestamp":"2025-10-01T13:46:53.678Z"}
-{"level":"info","message":"User update prepared successfully. userId: c64229b8-f153-4b7a-9425-21991bd2bff2, updates: {\"email\":\"al@example.com\",\"password\":\"$2b$10$OyTXJVLAAM/mY..y/EDsPe58IJ72u78GZPQ13kbEFt8TatIrPNq9.\"}","timestamp":"2025-10-01T13:46:53.678Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:46:53 +0000] \"PUT /api/user/update/c64229b8-f153-4b7a-9425-21991bd2bff2 HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:46:53.682Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-01T13:47:29.295Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-01T13:47:29.297Z"}
-{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-01T13:47:41.738Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:47:41 +0000] \"POST /api/auth/login HTTP/1.1\" 200 633 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:47:41.739Z"}
-{"level":"info","message":"Password updated for userId: c64229b8-f153-4b7a-9425-21991bd2bff2","timestamp":"2025-10-01T13:48:18.248Z"}
-{"level":"info","message":"User update prepared successfully. userId: c64229b8-f153-4b7a-9425-21991bd2bff2, updates: {\"email\":\"al@example.com\",\"password\":\"$2b$10$dPTxoqlDqITxDoP7BE/tk.e.6MizC4dL2u79o5oL5DH2o0KKnJafG\"}","timestamp":"2025-10-01T13:48:18.248Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:48:18 +0000] \"PUT /api/user/update/c64229b8-f153-4b7a-9425-21991bd2bff2 HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:48:18.252Z"}
-{"level":"info","message":"Password updated for userId: c64229b8-f153-4b7a-9425-21991bd2bff2","timestamp":"2025-10-01T13:51:39.688Z"}
-{"level":"info","message":"User update prepared successfully. userId: c64229b8-f153-4b7a-9425-21991bd2bff2, updates: {\"email\":\"al@example.com\",\"password\":\"$2b$10$Ica6z4BXLqEJZKQf3Gsmf.MqPmGL6s4z7wuTyv0C5ul/5SS/BExfK\"}","timestamp":"2025-10-01T13:51:39.688Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:51:39 +0000] \"PUT /api/user/update/c64229b8-f153-4b7a-9425-21991bd2bff2 HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:51:39.693Z"}
-{"level":"info","message":"Password updated for userId: c64229b8-f153-4b7a-9425-21991bd2bff2","timestamp":"2025-10-01T13:53:46.924Z"}
-{"level":"info","message":"User update prepared successfully. userId: c64229b8-f153-4b7a-9425-21991bd2bff2, updates: {\"email\":\"al@example.com\",\"password\":\"$2b$10$XCZgIizjWSXk4bfOM9lDNOgDTfqcg0L9BMSjW71R0SMlPWV5eLIWy\"}","timestamp":"2025-10-01T13:53:50.773Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:54:12 +0000] \"PUT /api/user/update/c64229b8-f153-4b7a-9425-21991bd2bff2 HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:54:12.963Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T13:57:50.823Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T13:57:50.833Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:58:10 +0000] \"PUT /api/user/update/c64229b8-f153-4b7a-9425-21991bd2bff2 HTTP/1.1\" 401 45 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:58:10.271Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:58:17 +0000] \"POST /api/auth/refresh HTTP/1.1\" 200 294 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:58:17.483Z"}
-{"level":"info","message":"Password updated for userId: c64229b8-f153-4b7a-9425-21991bd2bff2","timestamp":"2025-10-01T13:58:32.475Z"}
-{"level":"info","message":"User update prepared successfully. userId: c64229b8-f153-4b7a-9425-21991bd2bff2, updates: {\"email\":\"al@example.com\",\"password\":\"$2b$10$SdNwPgCtxbQcLdDhubRu..Tg7sJmI6rm/RMx22rAQ2lwfYmoP/NvS\"}","timestamp":"2025-10-01T13:58:37.061Z"}
-{"errors":[{"instance":{"approved":true,"createdAt":"2025-10-01T11:32:41.000Z","email":"al@example.com","id":"c64229b8-f153-4b7a-9425-21991bd2bff2","name":"abel","password":"$2b$10$SdNwPgCtxbQcLdDhubRu..Tg7sJmI6rm/RMx22rAQ2lwfYmoP/NvS","role":"USER","updatedAt":"2025-10-01T13:58:38.574Z"},"message":"email must be unique","origin":"DB","path":"email","type":"unique violation","validatorArgs":[],"validatorKey":"not_unique","validatorName":null,"value":"al@example.com"}],"fields":{"email":"al@example.com"},"level":"error","message":"Validation error","name":"SequelizeUniqueConstraintError","original":{"code":"ER_DUP_ENTRY","errno":1062,"parameters":["al@example.com","$2b$10$SdNwPgCtxbQcLdDhubRu..Tg7sJmI6rm/RMx22rAQ2lwfYmoP/NvS","2025-10-01 13:58:38","c64229b8-f153-4b7a-9425-21991bd2bff2"],"sql":"UPDATE `users` SET `email`=?,`password`=?,`updatedAt`=? WHERE `id` = ?","sqlMessage":"Duplicate entry 'al@example.com' for key 'users.email'","sqlState":"23000"},"parent":{"code":"ER_DUP_ENTRY","errno":1062,"parameters":["al@example.com","$2b$10$SdNwPgCtxbQcLdDhubRu..Tg7sJmI6rm/RMx22rAQ2lwfYmoP/NvS","2025-10-01 13:58:38","c64229b8-f153-4b7a-9425-21991bd2bff2"],"sql":"UPDATE `users` SET `email`=?,`password`=?,`updatedAt`=? WHERE `id` = ?","sqlMessage":"Duplicate entry 'al@example.com' for key 'users.email'","sqlState":"23000"},"sql":"UPDATE `users` SET `email`=?,`password`=?,`updatedAt`=? WHERE `id` = ?","stack":"Error\n    at Query.run (/Users/abdisa.wake/Documents/NodeSchool/usreMangement/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)\n    at /Users/abdisa.wake/Documents/NodeSchool/usreMangement/node_modules/sequelize/lib/sequelize.js:315:28\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async MySQLQueryInterface.update (/Users/abdisa.wake/Documents/NodeSchool/usreMangement/node_modules/sequelize/lib/dialects/abstract/query-interface.js:355:12)\n    at async model.save (/Users/abdisa.wake/Documents/NodeSchool/usreMangement/node_modules/sequelize/lib/model.js:2490:35)\n    at async Object.update (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/repositories/user.repository.js:56:7)\n    at async Object.update (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/user.service.js:64:21)\n    at async updateUser (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/user.controller.js:34:21)","timestamp":"2025-10-01T13:58:41.736Z"}
-{"level":"info","message":"::1 - - [01/Oct/2025:13:58:44 +0000] \"PUT /api/user/update/c64229b8-f153-4b7a-9425-21991bd2bff2 HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-01T13:58:44.638Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T14:02:50.081Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T14:02:50.086Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T14:06:14.058Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T14:06:14.063Z"}
-{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-01T14:06:44.858Z"}
-{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-01T14:06:44.866Z"}
-{"level":"info","message":"::1 - - [02/Oct/2025:05:12:46 +0000] \"PUT /api/user/update/c64229b8-f153-4b7a-9425-21991bd2bff2 HTTP/1.1\" 401 45 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-02T05:12:46.367Z"}
-{"level":"info","message":"::1 - - [02/Oct/2025:05:12:50 +0000] \"POST /api/auth/refresh HTTP/1.1\" 200 294 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-02T05:12:50.191Z"}
-{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-02T05:12:53.853Z"}
-{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-02T05:12:53.854Z"}
-{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-02T05:12:53.940Z"}
-{"level":"info","message":"::1 - - [02/Oct/2025:05:12:53 +0000] \"POST /api/auth/login HTTP/1.1\" 200 633 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-02T05:12:53.942Z"}
-{"level":"info","message":"Password updated for userId: c64229b8-f153-4b7a-9425-21991bd2bff2","timestamp":"2025-10-02T05:13:00.721Z"}
-{"level":"info","message":"User update prepared successfully. userId: c64229b8-f153-4b7a-9425-21991bd2bff2, updates: {\"email\":\"al@example.com\",\"password\":\"$2b$10$WekZINK10dYagEDIu6tIVOPdq4v9Lhx/S3taItDwdB8kdcfmHpOoS\"}","timestamp":"2025-10-02T05:13:00.721Z"}
-{"errors":[{"instance":{"approved":true,"createdAt":"2025-10-01T11:32:41.000Z","email":"al@example.com","id":"c64229b8-f153-4b7a-9425-21991bd2bff2","name":"abel","password":"$2b$10$WekZINK10dYagEDIu6tIVOPdq4v9Lhx/S3taItDwdB8kdcfmHpOoS","role":"USER","updatedAt":"2025-10-02T05:13:00.722Z"},"message":"email must be unique","origin":"DB","path":"email","type":"unique violation","validatorArgs":[],"validatorKey":"not_unique","validatorName":null,"value":"al@example.com"}],"fields":{"email":"al@example.com"},"level":"error","message":"Validation error","name":"SequelizeUniqueConstraintError","original":{"code":"ER_DUP_ENTRY","errno":1062,"parameters":["al@example.com","$2b$10$WekZINK10dYagEDIu6tIVOPdq4v9Lhx/S3taItDwdB8kdcfmHpOoS","2025-10-02 05:13:00","c64229b8-f153-4b7a-9425-21991bd2bff2"],"sql":"UPDATE `users` SET `email`=?,`password`=?,`updatedAt`=? WHERE `id` = ?","sqlMessage":"Duplicate entry 'al@example.com' for key 'users.email'","sqlState":"23000"},"parent":{"code":"ER_DUP_ENTRY","errno":1062,"parameters":["al@example.com","$2b$10$WekZINK10dYagEDIu6tIVOPdq4v9Lhx/S3taItDwdB8kdcfmHpOoS","2025-10-02 05:13:00","c64229b8-f153-4b7a-9425-21991bd2bff2"],"sql":"UPDATE `users` SET `email`=?,`password`=?,`updatedAt`=? WHERE `id` = ?","sqlMessage":"Duplicate entry 'al@example.com' for key 'users.email'","sqlState":"23000"},"sql":"UPDATE `users` SET `email`=?,`password`=?,`updatedAt`=? WHERE `id` = ?","stack":"Error\n    at Query.run (/Users/abdisa.wake/Documents/NodeSchool/usreMangement/node_modules/sequelize/lib/dialects/mysql/query.js:52:25)\n    at /Users/abdisa.wake/Documents/NodeSchool/usreMangement/node_modules/sequelize/lib/sequelize.js:315:28\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async MySQLQueryInterface.update (/Users/abdisa.wake/Documents/NodeSchool/usreMangement/node_modules/sequelize/lib/dialects/abstract/query-interface.js:355:12)\n    at async model.save (/Users/abdisa.wake/Documents/NodeSchool/usreMangement/node_modules/sequelize/lib/model.js:2490:35)\n    at async Object.update (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/repositories/user.repository.js:56:7)\n    at async Object.update (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/services/user.service.js:64:21)\n    at async updateUser (file:///Users/abdisa.wake/Documents/NodeSchool/usreMangement/src/controlles/user.controller.js:34:21)","timestamp":"2025-10-02T05:13:00.731Z"}
-{"level":"info","message":"::1 - - [02/Oct/2025:05:13:00 +0000] \"PUT /api/user/update/c64229b8-f153-4b7a-9425-21991bd2bff2 HTTP/1.1\" 400 28 \"-\" \"PostmanRuntime/7.48.0\"","timestamp":"2025-10-02T05:13:00.732Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-02T13:02:09.633Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-02T13:02:44.855Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-02T13:02:44.862Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-02T13:02:47.879Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-02T13:02:47.881Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-02T13:07:19.689Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-02T13:07:48.581Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-02T13:07:48.584Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example' }","timestamp":"2025-10-02T13:08:21.399Z"}
+{"level":"warn","message":"Login failed: user not found for email abel@example","timestamp":"2025-10-02T13:08:21.407Z"}
+{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/services/auth.service.js:14:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-02T13:08:21.407Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example' }","timestamp":"2025-10-02T13:09:01.281Z"}
+{"level":"warn","message":"Login failed: user not found for email abel@example","timestamp":"2025-10-02T13:09:01.286Z"}
+{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/services/auth.service.js:14:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-02T13:09:01.287Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example' }","timestamp":"2025-10-02T13:09:29.183Z"}
+{"level":"warn","message":"Login failed: user not found for email abel@example","timestamp":"2025-10-02T13:09:29.190Z"}
+{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/services/auth.service.js:14:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-02T13:09:29.190Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example' }","timestamp":"2025-10-02T13:12:31.029Z"}
+{"level":"warn","message":"Login failed: user not found for email abel@example","timestamp":"2025-10-02T13:12:31.037Z"}
+{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/services/auth.service.js:14:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-02T13:12:31.037Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-02T13:12:39.230Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-02T13:12:57.452Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-02T13:12:57.459Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-02T13:12:58.977Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-02T13:12:58.980Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-02T13:13:03.530Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-02T13:13:03.533Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-02T13:13:53.622Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-02T13:13:53.625Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-02T13:14:14.167Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-02T13:14:14.173Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-02T13:14:20.294Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-02T13:14:20.295Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-02T13:14:20.364Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-02T13:15:14.399Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-02T13:15:14.399Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-02T13:15:14.467Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-02T13:15:30.796Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-02T13:15:30.800Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-02T13:15:34.916Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-02T13:15:34.916Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-02T13:15:34.984Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-02T13:15:36.788Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-02T13:15:36.789Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-02T13:15:36.854Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-02T13:16:00.643Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-02T13:16:00.643Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-02T13:16:00.711Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-02T13:17:45.589Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-02T13:17:45.594Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-02T13:18:08.408Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-02T13:18:09.868Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-02T13:18:25.544Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-02T13:23:14.786Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-02T13:23:14.792Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-02T13:24:59.863Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-02T13:25:12.399Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-02T13:25:12.924Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-03T05:16:42.968Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-03T05:16:42.971Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-03T05:17:24.375Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-03T05:17:24.376Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-03T05:17:24.472Z"}
+{"level":"info","message":"Password updated for userId: c64229b8-f153-4b7a-9425-21991bd2bff2","timestamp":"2025-10-03T05:17:28.703Z"}
+{"level":"info","message":"User update prepared successfully. userId: c64229b8-f153-4b7a-9425-21991bd2bff2, updates: {\"email\":\"abel@example.com\",\"password\":\"$2b$10$17CXvRycHlZ9qWzvb1mWe.k6rNOl4HVYPMPTMjgpn7w3sGUxnt90K\"}","timestamp":"2025-10-03T05:17:28.703Z"}
+{"level":"info","message":"Password updated for userId: c64229b8-f153-4b7a-9425-21991bd2bff2","timestamp":"2025-10-03T05:17:50.156Z"}
+{"level":"info","message":"User update prepared successfully. userId: c64229b8-f153-4b7a-9425-21991bd2bff2, updates: {\"email\":\"abl@example.com\",\"password\":\"$2b$10$gprOc0Pf8YaDgQfqvd1nNuN3m.AKwYIOXXlKyqtS/sC2h4gCh9Qmy\"}","timestamp":"2025-10-03T05:17:50.156Z"}
+{"level":"info","message":"Password updated for userId: c64229b8-f153-4b7a-9425-21991bd2bff2","timestamp":"2025-10-03T05:18:02.289Z"}
+{"level":"info","message":"User update prepared successfully. userId: c64229b8-f153-4b7a-9425-21991bd2bff2, updates: {\"email\":\"abl@example.com\",\"password\":\"$2b$10$oSt6U5d8USvMx3Nn5cJJTeSobb1WxeQePunIWSZhsOczLiPoL.i6e\"}","timestamp":"2025-10-03T05:18:02.289Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-03T05:18:09.432Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-03T05:18:09.432Z"}
+{"level":"warn","message":"Login failed: user not found for email abel@example.com","timestamp":"2025-10-03T05:18:09.434Z"}
+{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/services/auth.service.js:14:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-03T05:18:09.434Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-03T05:18:10.735Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-03T05:18:10.736Z"}
+{"level":"warn","message":"Login failed: user not found for email abel@example.com","timestamp":"2025-10-03T05:18:10.738Z"}
+{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/services/auth.service.js:14:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-03T05:18:10.738Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-03T05:18:15.531Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-03T05:18:15.531Z"}
+{"level":"warn","message":"Login failed: user not found for email abel@example.com","timestamp":"2025-10-03T05:18:15.533Z"}
+{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/services/auth.service.js:14:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-03T05:18:15.533Z"}
+{"level":"info","message":"log in request body: { email: 'abel@example.com', password: '123' } ","timestamp":"2025-10-03T05:18:17.950Z"}
+{"level":"info","message":"LoginService called: { email: 'abel@example.com' }","timestamp":"2025-10-03T05:18:17.950Z"}
+{"level":"warn","message":"Login failed: user not found for email abel@example.com","timestamp":"2025-10-03T05:18:17.952Z"}
+{"level":"error","message":"user login error: Error: Invalid email or password\n    at login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/services/auth.service.js:14:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async login (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/controlles/auth.controller.js:44:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Invalid email or password'\n}","timestamp":"2025-10-03T05:18:17.952Z"}
+{"level":"info","message":"log in request body: { email: 'abl@example.com', password: '1234' } ","timestamp":"2025-10-03T05:18:34.033Z"}
+{"level":"info","message":"LoginService called: { email: 'abl@example.com' }","timestamp":"2025-10-03T05:18:34.034Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-03T05:18:34.114Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-03T05:19:46.485Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-03T05:19:46.489Z"}
+{"level":"info","message":"log in request body: { email: 'abl@example.com', password: '1234' } ","timestamp":"2025-10-03T05:19:51.230Z"}
+{"level":"info","message":"LoginService called: { email: 'abl@example.com' }","timestamp":"2025-10-03T05:19:51.230Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-03T05:19:51.296Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-03T05:20:05.319Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-03T05:20:05.323Z"}
+{"level":"info","message":"log in request body: { email: 'abl@example.com', password: '1234' } ","timestamp":"2025-10-03T05:20:07.569Z"}
+{"level":"info","message":"LoginService called: { email: 'abl@example.com' }","timestamp":"2025-10-03T05:20:07.569Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-03T05:20:07.636Z"}
+{"level":"info","message":"log in request body: { email: 'abl@example.com', password: '1234' } ","timestamp":"2025-10-03T05:20:21.755Z"}
+{"level":"info","message":"LoginService called: { email: 'abl@example.com' }","timestamp":"2025-10-03T05:20:21.756Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-03T05:20:21.839Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-03T05:21:10.215Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-03T05:21:10.218Z"}
+{"level":"info","message":"log in request body: { email: 'abl@example.com', password: '1234' } ","timestamp":"2025-10-03T05:21:15.912Z"}
+{"level":"info","message":"LoginService called: { email: 'abl@example.com' }","timestamp":"2025-10-03T05:21:15.913Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-03T05:21:15.995Z"}
+{"level":"info","message":"log in request body: { email: 'abl@example.com', password: '1234' } ","timestamp":"2025-10-03T05:21:45.683Z"}
+{"level":"info","message":"LoginService called: { email: 'abl@example.com' }","timestamp":"2025-10-03T05:21:45.683Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-03T05:21:45.762Z"}
+{"level":"info","message":"Regester request body: {\n  name: 'abel',\n  email: 'ab@example.com',\n  password: '123',\n  role: 'USER'\n} ","timestamp":"2025-10-03T05:22:16.288Z"}
+{"level":"info","message":"UserService.register called: { email: 'ab@example.com', role: 'USER' }","timestamp":"2025-10-03T05:22:16.288Z"}
+{"level":"info","message":"New User created : { id: 'd4506bc8-223b-44df-b9e1-8006d7e2d5d8', email: 'ab@example.com' }","timestamp":"2025-10-03T05:22:16.374Z"}
+{"level":"info","message":"User Registered successfully: { id: 'd4506bc8-223b-44df-b9e1-8006d7e2d5d8', email: 'ab@example.com' }","timestamp":"2025-10-03T05:22:16.374Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-03T05:24:16.306Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-03T05:24:16.310Z"}
+{"level":"info","message":"log in request body: { email: 'abl@example.com', password: '1234' } ","timestamp":"2025-10-03T05:24:27.063Z"}
+{"level":"info","message":"LoginService called: { email: 'abl@example.com' }","timestamp":"2025-10-03T05:24:27.063Z"}
+{"level":"info","message":"User login successfully: { name: 'abel' }","timestamp":"2025-10-03T05:24:27.146Z"}
+{"level":"info","message":"Regester request body: {\n  name: 'abel',\n  email: 'ab@example.com',\n  password: '123',\n  role: 'USER'\n} ","timestamp":"2025-10-03T05:24:32.222Z"}
+{"level":"info","message":"UserService.register called: { email: 'ab@example.com', role: 'USER' }","timestamp":"2025-10-03T05:24:32.223Z"}
+{"level":"error","message":"Register error: Error: Email already exists\n    at Object.register (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/services/user.service.js:21:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async register (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/controlles/auth.controller.js:9:18) {\n  [stack]: [Getter/Setter],\n  [message]: 'Email already exists'\n}","timestamp":"2025-10-03T05:24:32.226Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-03T05:27:35.022Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-03T05:27:35.028Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-03T05:29:40.380Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-03T05:29:40.385Z"}
+{"level":"info","message":"Regester request body: {\n  name: 'abel',\n  email: 'ab@example.com',\n  password: '123',\n  role: 'USER'\n} ","timestamp":"2025-10-03T05:30:00.201Z"}
+{"level":"info","message":"UserService.register called: { email: 'ab@example.com', role: 'USER' }","timestamp":"2025-10-03T05:30:00.204Z"}
+{"level":"error","message":"Register error: Error: Email already exists\n    at Object.register (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/services/user.service.js:21:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async register (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/controlles/auth.controller.js:9:18) {\n  [stack]: [Getter/Setter],\n  [message]: 'Email already exists'\n}","timestamp":"2025-10-03T05:30:00.220Z"}
+{"level":"info","message":"✅ MySQL connected","timestamp":"2025-10-03T05:30:18.785Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:8080","timestamp":"2025-10-03T05:30:18.789Z"}
+{"level":"info","message":"Regester request body: {\n  name: 'abel',\n  email: 'ab@example.com',\n  password: '123',\n  role: 'USER'\n} ","timestamp":"2025-10-03T05:30:32.397Z"}
+{"level":"info","message":"UserService.register called: { email: 'ab@example.com', role: 'USER' }","timestamp":"2025-10-03T05:30:32.399Z"}
+{"level":"error","message":"Register error: Error: Email already exists\n    at Object.register (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/services/user.service.js:21:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async register (file:///Users/abdisa.wake/Documents/NodeSchool/ums-etc/src/controlles/auth.controller.js:9:18) {\n  [stack]: [Getter/Setter],\n  [message]: 'Email already exists'\n}","timestamp":"2025-10-03T05:30:38.735Z"}

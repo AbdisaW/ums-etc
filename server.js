@@ -9,7 +9,7 @@ import bookRoutes from './src/routes/bookRoutes.js';
 import borrowingRoutes from './src/routes/borrowingRoutes.js';
 import analyticsRoutes from './src/routes/analyticsRoutes.js';
 import { requestLogger } from './src/middlewares/requestLogger.js';
-import { errorHandler } from './src/middlewares/errorHandler.js';
+// import { errorHandler } from './src/middlewares/errorHandler.js';
 import logger from './src/utils/logger.js';
 
 
@@ -35,7 +35,7 @@ app.use('/api/book', bookRoutes);
 app.use('/api/borrowing', borrowingRoutes);
 app.use('/api/analytics', analyticsRoutes);
 
-app.use(errorHandler);
+// app.use(errorHandler);
 
 // 404 handler
 app.use((req, res) => {
