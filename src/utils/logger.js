@@ -29,20 +29,20 @@ const logger = winston.createLogger({
   format: fileFormat,
   transports: [
     new winston.transports.File({ filename: path.join(logDir, 'error.log'), level: 'error' }),
-    new winston.transports.File({ filename: path.join(logDir, 'combined.log') })
+    new winston.transports.File({ filename: path.join(logDir, 'combined.log') }),
+    new winston.transports.File({ filename: path.join(logDir, 'http.log'), level: 'http' })
+
   ],
-  exceptionHandlers: [
-    new winston.transports.File({ filename: path.join(logDir, 'exceptions.log') })
-  ],
-  rejectionHandlers: [
-    new winston.transports.File({ filename: path.join(logDir, 'rejections.log') })
-  ]
+//   new winston.transports.File({ 
+//   filename: path.join(logDir, 'http.log'), 
+//   level: 'http', 
+//   format: winston.format((info) => info.level === 'http' ? info : false)() 
+// })
+
+
 });
 
-// In non-production print to console in readable form
-if (process.env.NODE_ENV !== 'production') {
-  logger.add(new winston.transports.Console({ format: consoleFormat }));
-}
+
 
 // Provide a stream for morgan
 logger.stream = {

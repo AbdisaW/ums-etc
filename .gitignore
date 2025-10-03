@@ -3,3 +3,7 @@ node_modules/
 .Ds_store
 dist/
 .vscode/
+.env
+*.log
+logs/
+debug.log
