@@ -5,7 +5,7 @@ import { UUIDV4 } from 'sequelize';
 /** @type {import('sequelize-cli').Migration} */
 export default {
   async up (queryInterface, Sequelize) {
-    await queryInterface.createTable("Books",{
+    await queryInterface.createTable("books",{
       id:{
         type:Sequelize.UUID,
         defaultValue: Sequelize.UUIDV4,
@@ -47,6 +47,6 @@ export default {
   },
 
   async down (queryInterface, Sequelize) {
-   await queryInterface.dropTable("Books")
+   await queryInterface.dropTable("books")
   }
 };
