@@ -2,7 +2,7 @@
 
 export default {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable("Borrowings", {
+    await queryInterface.createTable("borrowings", {
       id: {
         type: Sequelize.UUID,
         defaultValue: Sequelize.UUIDV4,
@@ -12,13 +12,13 @@ export default {
       userId: {
         type: Sequelize.UUID,
         allowNull: false,
-        references: { model: "Users", key: "id" },
+        references: { model: "users", key: "id" },
         onDelete: "CASCADE"
       },
       bookId: {
         type: Sequelize.UUID,
         allowNull: false,
-        references: { model: "Books", key: "id" },
+        references: { model: "books", key: "id" },
         onDelete: "CASCADE"
       },
       borrowDate: {
@@ -43,21 +43,21 @@ export default {
     });
 
     // 🔹 Add unique composite index
-    await queryInterface.addIndex("Borrowings", ["userId", "bookId", "returnDate"], {
+    await queryInterface.addIndex("borrowings", ["userId", "bookId", "returnDate"], {
       unique: true,
       name: "uniq_active_borrow"
     });
 
     // 🔹 Add index for borrowDate (optional, speeds up queries)
-    await queryInterface.addIndex("Borrowings", ["borrowDate"]);
+    await queryInterface.addIndex("borrowings", ["borrowDate"]);
   },
 
   async down(queryInterface) {
     // Drop indexes first (good practice)
-    await queryInterface.removeIndex("Borrowings", "uniq_active_borrow");
-    await queryInterface.removeIndex("Borrowings", ["borrowDate"]);
+    await queryInterface.removeIndex("borrowings", "uniq_active_borrow");
+    await queryInterface.removeIndex("borrowings", ["borrowDate"]);
 
     // Then drop table
-    await queryInterface.dropTable("Borrowings");
+    await queryInterface.dropTable("borrowings");
   }
 };

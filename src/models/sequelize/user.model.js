@@ -1,6 +1,4 @@
 import { DataTypes } from 'sequelize';
-import sequelize from '../../../config/database.js';
-import { type } from 'os';
 
 
 export default (sequelize) => {
@@ -9,9 +7,7 @@ export default (sequelize) => {
     name: { type: DataTypes.STRING, allowNull: false },
     email: { type: DataTypes.STRING, unique: true, allowNull: false },
     password: { type: DataTypes.STRING, allowNull: false },
-    role: { type: DataTypes.ENUM('ADMIN', 'USER', 'LIBRARIAN'), defaultValue: 'USER' },
-    approved: { type: DataTypes.BOOLEAN, defaultValue: true },
-    
+    role: { type: DataTypes.ENUM('ADMIN', 'USER', 'LIBRARIAN'), defaultValue: 'USER' },    
   }, {
     timestamps: true,
   });

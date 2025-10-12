@@ -3,7 +3,7 @@
 /** @type {import('sequelize-cli').Migration} */
 export default {
   async up(queryInterface, Sequelize) {
-    await queryInterface.addColumn("Books", "reject", {
+    await queryInterface.addColumn("books", "reject", {
       type: Sequelize.BOOLEAN,
      
       allowNull: false,
@@ -12,7 +12,7 @@ export default {
   },
 
   async down(queryInterface, Sequelize) {
-    await queryInterface.removeColumn("Books", "totalCopies")
+    await queryInterface.removeColumn("books", "totalCopies")
   
   }
 };

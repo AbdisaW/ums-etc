@@ -10,9 +10,6 @@ import borrowingRoutes from './src/routes/borrowingRoutes.js';
 import analyticsRoutes from './src/routes/analyticsRoutes.js';
 import { requestLogger } from './src/middlewares/requestLogger.js';
 // import { errorHandler } from './src/middlewares/errorHandler.js';
-import logger from './src/utils/logger.js';
-
-
 
 import sequelize from './src/models/sequelize/index.js';
 
@@ -21,7 +18,6 @@ app.use(express.json());
 app.use(requestLogger);
 
 app.use(i18n.init);
-
 app.use((req, res, next) => {
   const lang = req.query.lang || req.headers['accept-language'];
   if (lang) i18n.setLocale(req, lang);
@@ -35,18 +31,23 @@ app.use('/api/book', bookRoutes);
 app.use('/api/borrowing', borrowingRoutes);
 app.use('/api/analytics', analyticsRoutes);
 
-// app.use(errorHandler);
+// Root route
+app.get('/', (req, res) => {
+  res.send("✅ Dockerized app is running!");
+});
 
 // 404 handler
 app.use((req, res) => {
   res.status(404).json({ message: req.__('errors.notFound') });
 });
 
-const PORT = process.env.PORT || 8000;
+// Database connection with retry
 
-sequelize.authenticate()
-  .then(() => {
-    logger.info("✅ MySQL connected");
-    app.listen(PORT, () => logger.info(`🚀 Server running on http://localhost:${PORT}`));
-  })
-  .catch(err => logger.error("❌ Database error:", err));
+
+// Start the app
+
+  const PORT = process.env.PORT || 8080;
+  app.listen(PORT, '0.0.0.0', () => {
+    console.log(`🚀 Server running on http://localhost:${PORT}`)
+
+  });
