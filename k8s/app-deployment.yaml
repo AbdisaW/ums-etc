@@ -12,9 +12,35 @@ spec:
       labels:
         app: ums-app
     spec:
+      initContainers:
+        - name: migrate-and-seed
+          image: ums-etc-app
+          imagePullPolicy: Never
+          command:
+            - sh
+            - -c
+            - |
+              echo "Waiting for MySQL..."
+              until nc -z mysql 3306; do sleep 2; done
+              echo "Database ready! Running migrations..."
+              npx sequelize-cli db:migrate
+              npx sequelize-cli db:seed:all
+          env:
+            - name: DB_HOST
+              value: mysql
+            - name: DB_USER
+              value: root
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: mysql-secret
+                  key: mysql-root-password
+            - name: DB_NAME
+              value: ums_db
+
       containers:
         - name: ums-app
-          image: ums_app:latest 
+          image: ums-etc-app  
           imagePullPolicy: Never
           ports:
             - containerPort: 8080
@@ -30,3 +56,4 @@ spec:
                   key: mysql-root-password
             - name: DB_NAME
               value: ums_db
+          command: ["npm", "start"]

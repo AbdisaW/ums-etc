@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "password",
-    "database": "ums",
+    "database": "ums_db",
     "host": "mysql",
     "dialect": "mysql"
   },
